@@ -1,0 +1,2 @@
+# adminchart-ecommerece-project
+My project name is ecommerece feedback analysis and i am doing admin panel from my project previously i uploaded my code as admin signup, header, change password and now i am uploading my another code that is Admin chat after the completion of my panel it will link with Amit kumar coding that is product list cateogry and all . we are making our projects on JSP we are using netbeans and wamp server i used the following attributes in my coding
